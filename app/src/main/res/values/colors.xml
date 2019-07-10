@@ -3,4 +3,14 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <!-- Functional button color -->
+    <color name="colorFuncButtonsBG">#333333</color>
+    <color name="colorFuncButtonsFG">#c4c4c4</color>
+    <!-- Number button color -->
+    <color name="colorNumButtonsBG">#c4c4c4</color>
+    <color name="colorNumButtonsFG">#333333</color>
+
+    <!-- Equal button color -->
+    <color name="colorEqualButtonsBG">#ec7701</color>
+    <color name="colorEqualButtonsFG">#ffffff</color>
 </resources>

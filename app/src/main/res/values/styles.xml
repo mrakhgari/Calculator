@@ -6,6 +6,32 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
     </style>
+
+    <style name="FunctionalButtons">
+        <item name="android:textSize">30sp</item>
+        <item name="android:minHeight">80sp</item>
+        <item name="android:textColor">@color/colorFuncButtonsFG</item>
+        <item name="android:background">@drawable/func_rect_buttons</item>
+    </style>
+
+
+    <style name="NumberButtons">
+        <item name="android:textSize">30sp</item>
+        <item name="android:minHeight">80sp</item>
+        <item name="android:textColor">@color/colorNumButtonsFG</item>
+        <item name="android:background">@drawable/number_rect_button</item>
+    </style>
+
+    <style name="EqualButtons">
+        <item name="android:textSize">30sp</item>
+        <item name="android:minHeight">80sp</item>
+        <item name="android:textColor">@color/colorEqualButtonsFG</item>
+        <item name="android:background">@drawable/equal_rect_button</item>
+    </style>
+
 
 </resources>
